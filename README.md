@@ -1,4 +1,4 @@
-# Javascript Final Project
+# Golang Final Project (MyGram)
 Golang Final Project (MyGram) Kelas Bootcamp Golang + Javascript Hacktiv8.
 
 ## Project Description
